@@ -1,5 +1,10 @@
 # Juwon's First CS193 Homework
 
+## Things I like about CS193
+- The class is entirely taught by students
+- The content of the class is not only easy to understand but really useful
+- The class only meets in person once a week
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
